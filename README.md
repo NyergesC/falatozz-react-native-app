@@ -1,0 +1,1 @@
+# falatozz-react-native-app
